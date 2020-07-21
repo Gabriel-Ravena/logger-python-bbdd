@@ -1,0 +1,113 @@
+WARNING:root:Mensaje a nivel warning
+INFO:root:Mensaje a nivel info
+DEBUG:root:Mensaje a nivel debug
+ERROR:root:Ocurrió un error en la base de datos
+DEBUG:root:Se realizó la conexión con éxito
+2020-07-20 11:56:38,547: WARNING
+2020-07-20 11:56:38,549: INFO
+2020-07-20 11:56:38,549: DEBUG
+2020-07-20 11:56:38,549: ERROR
+2020-07-20 11:56:38,549: DEBUG
+2020-07-20 12:01:38,729: WARNING [WARNING:12]
+2020-07-20 12:01:38,729: INFO [INFO:13]
+2020-07-20 12:01:38,729: DEBUG [DEBUG:14]
+2020-07-20 12:01:38,729: ERROR [ERROR:15]
+2020-07-20 12:01:38,730: DEBUG [DEBUG:16]
+2020-07-20 12:08:18,972: WARNING [WARNING:12 Mensaje a nivel warning]
+2020-07-20 12:08:18,972: INFO [INFO:13 Mensaje a nivel info]
+2020-07-20 12:08:18,972: DEBUG [DEBUG:14 Mensaje a nivel debug]
+2020-07-20 12:08:18,973: ERROR [ERROR:15 Ocurrió un error en la base de datos]
+2020-07-20 12:08:18,973: DEBUG [DEBUG:16 Se realizó la conexión con éxito]
+2020-07-20 12:08:32,118: WARNING [WARNING:12] Mensaje a nivel warning
+2020-07-20 12:08:32,118: INFO [INFO:13] Mensaje a nivel info
+2020-07-20 12:08:32,118: DEBUG [DEBUG:14] Mensaje a nivel debug
+2020-07-20 12:08:32,118: ERROR [ERROR:15] Ocurrió un error en la base de datos
+2020-07-20 12:08:32,119: DEBUG [DEBUG:16] Se realizó la conexión con éxito
+120954PM: WARNING [WARNING:13] Mensaje a nivel warning
+120954PM: INFO [INFO:14] Mensaje a nivel info
+120954PM: DEBUG [DEBUG:15] Mensaje a nivel debug
+120954PM: ERROR [ERROR:16] Ocurrió un error en la base de datos
+120954PM: DEBUG [DEBUG:17] Se realizó la conexión con éxito
+121002 PM: WARNING [WARNING:13] Mensaje a nivel warning
+121002 PM: INFO [INFO:14] Mensaje a nivel info
+121002 PM: DEBUG [DEBUG:15] Mensaje a nivel debug
+121002 PM: ERROR [ERROR:16] Ocurrió un error en la base de datos
+121002 PM: DEBUG [DEBUG:17] Se realizó la conexión con éxito
+122846 PM: WARNING [WARNING:13] Mensaje a nivel warning
+122846 PM: INFO [INFO:14] Mensaje a nivel info
+122846 PM: DEBUG [DEBUG:15] Mensaje a nivel debug
+122846 PM: ERROR [ERROR:16] Ocurrió un error en la base de datos
+122846 PM: DEBUG [DEBUG:17] Se realizó la conexión con éxito
+123914 PM: INFO [INFO:3] Desde conexion
+123940 PM: WARNING [WARNING:13] Mensaje a nivel warning
+123940 PM: INFO [INFO:14] Mensaje a nivel info
+123940 PM: DEBUG [DEBUG:15] Mensaje a nivel debug
+123940 PM: ERROR [ERROR:16] Ocurrió un error en la base de datos
+123940 PM: DEBUG [DEBUG:17] Se realizó la conexión con éxito
+124314 PM: WARNING [WARNING:13] Mensaje a nivel warning
+124314 PM: INFO [INFO:14] Mensaje a nivel info
+124314 PM: DEBUG [DEBUG:15] Mensaje a nivel debug
+124314 PM: ERROR [ERROR:16] Ocurrió un error en la base de datos
+124314 PM: DEBUG [DEBUG:17] Se realizó la conexión con éxito
+124314 PM: INFO [INFO:4] Desde conexion
+010535 PM: WARNING [WARNING:13] Mensaje a nivel warning
+010535 PM: INFO [INFO:14] Mensaje a nivel info
+010535 PM: DEBUG [DEBUG:15] Mensaje a nivel debug
+010535 PM: ERROR [ERROR:16] Ocurrió un error en la base de datos
+010535 PM: DEBUG [DEBUG:17] Se realizó la conexión con éxito
+010536 PM: INFO [INFO:32] Desde conexion
+010549 PM: WARNING [WARNING:13] Mensaje a nivel warning
+010549 PM: INFO [INFO:14] Mensaje a nivel info
+010549 PM: DEBUG [DEBUG:15] Mensaje a nivel debug
+010549 PM: ERROR [ERROR:16] Ocurrió un error en la base de datos
+010549 PM: DEBUG [DEBUG:17] Se realizó la conexión con éxito
+010549 PM: INFO [INFO:32] Desde conexion
+010624 PM: WARNING [WARNING:13] Mensaje a nivel warning
+010624 PM: INFO [INFO:14] Mensaje a nivel info
+010624 PM: DEBUG [DEBUG:15] Mensaje a nivel debug
+010624 PM: ERROR [ERROR:16] Ocurrió un error en la base de datos
+010624 PM: DEBUG [DEBUG:17] Se realizó la conexión con éxito
+010624 PM: ERROR [ERROR:25] Error al conectar a la base de datos: invalid dsn: invalid connection option "username"
+
+010708 PM: WARNING [WARNING:13] Mensaje a nivel warning
+010708 PM: INFO [INFO:14] Mensaje a nivel info
+010708 PM: DEBUG [DEBUG:15] Mensaje a nivel debug
+010708 PM: ERROR [ERROR:16] Ocurrió un error en la base de datos
+010708 PM: DEBUG [DEBUG:17] Se realizó la conexión con éxito
+010709 PM: ERROR [ERROR:26] Error al conectar a la base de datos: invalid dsn: invalid connection option "username"
+
+011112 PM: WARNING [WARNING:13] Mensaje a nivel warning
+011112 PM: INFO [INFO:14] Mensaje a nivel info
+011112 PM: DEBUG [DEBUG:15] Mensaje a nivel debug
+011112 PM: ERROR [ERROR:16] Ocurrió un error en la base de datos
+011112 PM: DEBUG [DEBUG:17] Se realizó la conexión con éxito
+011112 PM: ERROR [ERROR:26] Error al conectar a la base de datos: invalid dsn: invalid connection option "username"
+
+011124 PM: WARNING [WARNING:13] Mensaje a nivel warning
+011124 PM: INFO [INFO:14] Mensaje a nivel info
+011124 PM: DEBUG [DEBUG:15] Mensaje a nivel debug
+011124 PM: ERROR [ERROR:16] Ocurrió un error en la base de datos
+011124 PM: DEBUG [DEBUG:17] Se realizó la conexión con éxito
+011124 PM: ERROR [ERROR:26] Error al conectar a la base de datos: invalid dsn: invalid connection option "username"
+
+012635 PM: WARNING [WARNING:13] Mensaje a nivel warning
+012635 PM: INFO [INFO:14] Mensaje a nivel info
+012635 PM: DEBUG [DEBUG:15] Mensaje a nivel debug
+012635 PM: ERROR [ERROR:16] Ocurrió un error en la base de datos
+012635 PM: DEBUG [DEBUG:17] Se realizó la conexión con éxito
+012635 PM: ERROR [ERROR:39] Error al obtener el cursor: 'function' object has no attribute 'cursor'
+012918 PM: WARNING [WARNING:13] Mensaje a nivel warning
+012918 PM: INFO [INFO:14] Mensaje a nivel info
+012918 PM: DEBUG [DEBUG:15] Mensaje a nivel debug
+012918 PM: ERROR [ERROR:16] Ocurrió un error en la base de datos
+012918 PM: DEBUG [DEBUG:17] Se realizó la conexión con éxito
+012918 PM: ERROR [ERROR:39] Error al obtener el cursor: 'function' object has no attribute 'cursor'
+013625 PM: WARNING [WARNING:13] Mensaje a nivel warning
+013625 PM: INFO [INFO:14] Mensaje a nivel info
+013625 PM: DEBUG [DEBUG:15] Mensaje a nivel debug
+013625 PM: ERROR [ERROR:16] Ocurrió un error en la base de datos
+013625 PM: DEBUG [DEBUG:17] Se realizó la conexión con éxito
+013625 PM: DEBUG [DEBUG:23] Conexión exitosa: <connection object at 0x03AA4748; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+013625 PM: DEBUG [DEBUG:36] Se abrio el cursor con éxito: <cursor object at 0x03B27628; closed: 0>
+013625 PM: INFO [INFO:59] <cursor object at 0x03B27628; closed: 0>
+013625 PM: DEBUG [DEBUG:56] Se han cerrado los objetos de conexión y cursor
